@@ -3,7 +3,8 @@ title: "Contact"
 order: 1
 in_menu: true
 ---
-L'Échappée Belle est actuellement composée de 6 membres.
+Doublure Stylo, autrice, écriveuse, rôliste textuelle et touche à tout et éternelle débutante
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Me contacter par mail : [doublurestylo@gmail.com](mailto:doublurestylo@gmail.com)
+
+[Mon compte sur Mastodon](@DoublureStylo@imaginair.es) 
