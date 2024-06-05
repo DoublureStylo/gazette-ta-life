@@ -7,4 +7,4 @@ Doublure Stylo, autrice, écriveuse, rôliste textuelle et touche à tout et ét
 
 Me contacter par mail : [doublurestylo@gmail.com](mailto:doublurestylo@gmail.com)
 
-[Mon compte sur Mastodon](@DoublureStylo@imaginair.es) 
+[Mon compte sur Mastodon](https://imaginair.es/@DoublureStylo) 
